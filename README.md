@@ -16,9 +16,9 @@ My goal is to use this repository as more than a place to summarize chapters. I 
 - Track questions, patterns, and implementation details that I want to revisit.
 - Create a reference I can return to when building production-oriented LLM systems.
 
-## Current Focus
+## Current Progress
 
-I am currently working through Chapter 1: **Understand the LLM Twin Concept and Architecture**.
+I have completed my notes for Chapter 1: **Understand the LLM Twin Concept and Architecture**.
 
 The first notebook is here:
 
@@ -59,7 +59,7 @@ For now, the repository starts small. As the project grows, I may add chapter-sp
 
 | Chapter | Topic | Status | Notes |
 | --- | --- | --- | --- |
-| 1 | Understand the LLM Twin Concept and Architecture | In progress | Initial notebook created |
+| 1 | Understand the LLM Twin Concept and Architecture | Complete | Chapter notes captured in the notebook |
 
 Future chapters will be added as I continue to work through the book.
 
